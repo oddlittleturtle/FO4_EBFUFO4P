@@ -2,8 +2,8 @@
 Everyone's Best Friend and the Unofficial Fallout 4 Patch edit the two same Papyrus scripts (FollowersScript and HC_ManagerScript) causing EBF to return the scripts back to vanilla and reintroducing approximately 10 bugs fixed by the Unofficial Patch in the process. This includes magic effects dispel issues with Survival Mode and an array issue and idle chatter spam on FollowersScript.
 
 # Requirements
-Unofficial Fallout 4 Patch
-Everyone's Best Friend
+* Unofficial Fallout 4 Patch
+* Everyone's Best Friend
 
 # Releases
 **Xbox:** [https://mods.bethesda.net/en/fallout4/mod-detail/4326782](https://mods.bethesda.net/en/fallout4/mod-detail/4326782)
