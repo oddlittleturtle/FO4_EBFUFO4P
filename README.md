@@ -9,8 +9,8 @@ Everyone's Best Friend and the Unofficial Fallout 4 Patch edit the two same Papy
 **Xbox:** [https://mods.bethesda.net/en/fallout4/mod-detail/4326782](https://mods.bethesda.net/en/fallout4/mod-detail/4326782)
 
 # Credits
-Valdacil (Author of Everyone's Best Friend) - [https://mods.bethesda.net/en/fallout4/mod-detail/923154](https://mods.bethesda.net/en/fallout4/mod-detail/923154)
-Sclerocephelus (Unofficial Patch Team programmer) - [https://AFKMods.com](https://AFKMods.com)
+* Valdacil (Author of Everyone's Best Friend) - [https://mods.bethesda.net/en/fallout4/mod-detail/923154](https://mods.bethesda.net/en/fallout4/mod-detail/923154)
+* Sclerocephelus (Unofficial Patch Team programmer) - [https://AFKMods.com](https://AFKMods.com)
 
 Scripts compiled with Sublime Text.
 [https://falloutck.uesp.org/](https://falloutck.uesp.net/wiki/Sublime_Text)
