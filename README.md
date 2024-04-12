@@ -14,8 +14,8 @@ Everyone's Best Friend and the Unofficial Fallout 4 Patch edit the two same Papy
 
 
 # MIRRORS
-**Xbox:** [https://mods.bethesda.net/en/fallout4/mod-detail/4326782](https://mods.bethesda.net/en/fallout4/mod-detail/4326782)
-**PC:** [https://www.afkmods.com/index.php?/files/file/2631-unofficial-compatibility-patch-everyones-best-friend-and-ufo4p/](https://www.afkmods.com/index.php?/files/file/2631-unofficial-compatibility-patch-everyones-best-friend-and-ufo4p/)
+* **Xbox:** [https://mods.bethesda.net/en/fallout4/mod-detail/4326782](https://mods.bethesda.net/en/fallout4/mod-detail/4326782)
+* **PC:** [https://www.afkmods.com/index.php?/files/file/2631-unofficial-compatibility-patch-everyones-best-friend-and-ufo4p/](https://www.afkmods.com/index.php?/files/file/2631-unofficial-compatibility-patch-everyones-best-friend-and-ufo4p/)
 
 
 ## Naming mistake
