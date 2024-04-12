@@ -14,5 +14,5 @@ Scripts compiled with Sublime Text.
 creationkit.com/fallout4/index.php?title=Sublime_Text_Papyrus_Plugin
 
 
-#License
+# License
 If you need these scripts to merge your own script modifications, here are the source files. Do not redistribute source or compiled scripts without modifying them to avoid dirty BA2s.
