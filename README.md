@@ -13,21 +13,19 @@ Everyone's Best Friend and the Unofficial Fallout 4 Patch edit the two same Papy
 * I do not support uninstalling mods in the middle of a game and continuing on the same save.  Start a new character if you do not wish to use the mod after creating a save with it installed. There is no safe uninstall of Fallout 4 mods. 
 
 
-# MIRRORS
+# Releases
 * **Xbox:** [https://mods.bethesda.net/en/fallout4/mod-detail/4326782](https://mods.bethesda.net/en/fallout4/mod-detail/4326782)
 * **PC:** [https://www.afkmods.com/index.php?/files/file/2631-unofficial-compatibility-patch-everyones-best-friend-and-ufo4p/](https://www.afkmods.com/index.php?/files/file/2631-unofficial-compatibility-patch-everyones-best-friend-and-ufo4p/)
 
 
-## Naming mistake
+# Naming mistake
 I mistakenly used the wrong initials for the plugin and BA2 for Xbox. This is corrected for AFKMods upload.
 
 
 # Credits
 * Valdacil (Author of Everyone's Best Friend) - [https://mods.bethesda.net/en/fallout4/mod-detail/923154](https://mods.bethesda.net/en/fallout4/mod-detail/923154)
 * Sclerocephelus (Unofficial Patch Team programmer) - [https://AFKMods.com](https://AFKMods.com)
-
-Scripts compiled with Sublime Text.
-[https://falloutck.uesp.net/wiki/Sublime_Text](https://falloutck.uesp.net/wiki/Sublime_Text)
+* Scripts compiled with Sublime Text. [https://falloutck.uesp.net/wiki/Sublime_Text](https://falloutck.uesp.net/wiki/Sublime_Text)
 
 
 # License
